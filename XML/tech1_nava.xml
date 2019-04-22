@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <semester name="Spring 2016">
+	<class>
+		<number>CIT 270/L</number>
+		<title>Integrative Programming</title>
+		<prereq>COMP 182/L, CIT 160/L</prereq>
+	</class>
+        
+	
+	<class>
+		<number>CIT 210/L</number>
+		<title>Operating Systems</title>
+		<prereq>COMP 122, CIT 160/L</prereq>
+	</class>
+	<class>
+		<number>IS 312</number>
+		<title>Information Systems for Business</title>
+		<prereq>CIT 160/L, CIT 101/L</prereq>
+	</class>
+        <class>
+		<number>RS 304</number>
+		<title>Women and Religion</title>
+		<prereq>N/A</prereq>
+	</class>
+   </semester>
+
+   <semester name="Fall 2017">
+	<class>
+		<number>CIT 360</number>
+		<title>System Management</title>
+		<prereq>CIT 210/L, CIT 270/L</prereq>
+	</class>
+	<class>
+		<number>IS 431</number>
+		<title>System Analysis and Design</title>
+		<prereq>IS 312, UDPWE</prereq>
+	</class>
+	<class>
+		<number>IS 435</number>
+		<title>Business Data Communications andNetworking</title>
+		<prereq>IS 312, UDPWE</prereq>
+	</class>
+	<class>
+		<number>KIN 300</number>
+		<title>Foundations and Analysis of Human Movement</title>
+		<prereq>N/A</prereq>
+	</class>  
+    </semester> 
+
+   <semester name="Spring 2017">
+		<class>
+			<number>IS 441</number>
+			<title>Database Management Systems</title>
+			<prereq>IS 312, UDPWE</prereq>
+		</class>
+		<class>
+			<number>IS 451</number>
+			<title>Systems Development Project</title>
+			<prereq>IS 431, IS 435</prereq>
+		</class>
+		<class>
+			<number>CIT 496/L</number>
+			<title>Information Systems Security</title>
+			<prereq>CIT 360, IS 435</prereq>
+		</class>
+		<class>
+			<number>KIN 149</number>
+			<title>Yoga</title>
+			<prereq>N/A</prereq>
+		</class>
+	</semester>
+	<semester name="Fall 2017">
+		<class>
+			<number>CIT 480/L</number>
+			<title>System Design and Implementation 1</title>
+			<prereq>COMP 484/L, IS 451</prereq>
+		</class>
+		<class>
+			<number>COMP 484/L</number>
+			<title>Web Engineering 1 and Lab</title>
+			<prereq>IS 451, CIT 360</prereq>
+		</class>
+	</semester>
+	<semester name="Spring 2018">
+		<class>
+			<number>CIT 481/L</number>
+			<title>System Design and Implementation 2</title>
+			<prereq>CIT 480/L</prereq>
+		</class>
+	</semester>
+</catalog>
